@@ -1,5 +1,7 @@
 # 📱 Mobile Sales Dashboard (Power BI)
 
+🔗 [View Repo](https://github.com/NabinM31/Mobiles_Sales_Dashboard_Power-BI)
+
 ## 📌 Overview
 Developed a dynamic Power BI dashboard to visualize mobile sales data across regions, timeframes, and product categories.
 
@@ -19,4 +21,3 @@ Helped the sales team quickly assess performance, identify growth opportunities,
 
 ---
 
-👉 [**📂 View Repository**](https://github.com/NabinM31/My-Data-Projects/tree/main/Power%20BI)
