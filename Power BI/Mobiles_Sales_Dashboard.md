@@ -16,3 +16,7 @@ Developed a dynamic Power BI dashboard to visualize mobile sales data across reg
 
 ## 📈 Impact
 Helped the sales team quickly assess performance, identify growth opportunities, and optimize stock distribution.
+
+---
+
+👉 [**📂 View Repository**](https://github.com/YourUsername/My-Data-Projects/tree/main/Power%20BI)
