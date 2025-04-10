@@ -1,6 +1,6 @@
 # 🎬 Netflix SQL Analysis
 
-🔗 [View GitHub Repo](https://github.com/yourusername/Netflix_SQL_Project_1)
+🔗 [View GitHub Repo](https://github.com/NabinM31/Netflix_SQL_Project_1)
 
 Explored Netflix's content database to uncover trends in genre distribution, top directors, content types, and release years.
 
