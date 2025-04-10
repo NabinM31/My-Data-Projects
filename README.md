@@ -10,7 +10,7 @@ This repository showcases my projects in **Power BI** and **SQL**, where I solve
 | Project | Description |
 |--------|-------------|
 | [👥 HR Analytics Dashboard](./Power%20BI/HR_analytics_Dashboard.md) | Analyze employee attrition, diversity, and engagement across departments. |
-| [📱 Mobile Sales Dashboard](./Power%20BI/Mobiles_Sales_Dashboard.md) | Visualize sales performance by product, region, and brand over time. |
+| [📱 Mobile Sales Dashboard](./Power%20BI/Mobiles_Sales_Data_Dashboard.md) | Visualize sales performance by product, region, and brand over time. |
 
 ---
 
