@@ -9,9 +9,8 @@ This repository showcases my projects in **Power BI** and **SQL**, where I solve
 
 | Project | Description |
 |--------|-------------
+| [📱 Mobile Sales Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/Mobiles_Sales_Data_Dashboard.md) | Track mobile sales trends by brand and region. |
 
-| 📱 Mobile Sales Dashboard | 
-[🔗 View Repo](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/Mobiles_Sales_Data_Dashboard.md)
 
 - **HR Analytics Dashboard**  
   🔗 [View Dashboard](https://github.com/NabinM31/My-Data-Projects/blob/main/Power%20BI/HR_analytics_Dashboard.md)
