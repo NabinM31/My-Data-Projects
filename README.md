@@ -10,10 +10,10 @@ This repository showcases my projects in **Power BI** and **SQL**, where I solve
 | Project | Description |
 |--------|-------------|
 
-- Mobiles Sales Dashboard  
+- **Mobiles Sales Data Dashboard**  
   🔗 [View Dashboard](https://github.com/NabinM31/My-Data-Projects/blob/main/Power%20BI/Mobiles_Sales_Data_Dashboard.md)
 
-- HR Analytics Dashboard  
+- **HR Analytics Dashboard**  
   🔗 [View Dashboard](https://github.com/NabinM31/My-Data-Projects/blob/main/Power%20BI/HR_analytics_Dashboard.md)
 
 ---
