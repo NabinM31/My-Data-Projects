@@ -5,12 +5,12 @@ This repository showcases my projects in **Power BI** and **SQL**, where I solve
 
 ---
 
-## 🚀 Power BI Projects
+### 📊 Power BI Projects
 
 | Project | Description |
-|--------|-------------
+|--------|-------------|
+| [👩‍💼 HR Analytics Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/HR_analytics_Dashboard.md) | Visualize employee attrition and satisfaction levels. |
 | [📱 Mobile Sales Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/Mobiles_Sales_Data_Dashboard.md) | Track mobile sales trends by brand and region. |
-| [👥 HR Analytics Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/HR_analytics_Dashboard.md) | Visualize employee attrition and satisfaction levels. |
 
 ---
 
