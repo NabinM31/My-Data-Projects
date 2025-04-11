@@ -1,4 +1,4 @@
-# 📱 Mobile Sales Dashboard (Power BI)
+# 📱 Mobile Sales Data Dashboard (Power BI)
 
 🔗 [View Repo](https://github.com/NabinM31/My-Data-Projects/blob/main/Power%20BI/Mobiles_Sales_Data_Dashboard.md)
 
