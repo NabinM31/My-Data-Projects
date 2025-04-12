@@ -5,12 +5,14 @@ This repository showcases my projects in **Power BI** and **SQL**, where I solve
 
 ---
 
-### 📊 Power BI Projects
+## 📊 Power BI Portfolio Projects
 
-| Project | Description |
-|--------|-------------|
-| [👩‍💼 HR Analytics Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/HR_analytics_Dashboard.md) | Visualize employee attrition and satisfaction levels. |
-| [📱 Mobile Sales Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/Mobiles_Sales_Data_Dashboard.md) | Track mobile sales trends by brand and region. |
+Explore interactive dashboards built using Power BI to visualize business data and derive actionable insights:
+
+| Project Title | Description | View |
+|---------------|-------------|------|
+| **📚 Online Bookstore Dashboard** | Analyzed sales, customer segments, and best-selling books. | [View Project](https://github.com/NabinM31/Online_BookStore_SQL_Project_5) |
+| **👩‍💼 HR Analytics Dashboard** | HR KPIs dashboard showing attrition, performance, and gender distribution. | [View Project](https://github.com/NabinM31/HR_analytics_Dashboard_Power-BI) |
 
 ---
 
