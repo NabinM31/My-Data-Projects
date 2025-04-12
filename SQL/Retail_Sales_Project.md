@@ -1,5 +1,7 @@
-# 🛒 Retail Sales Data Analysis (SQL)
-[🔗 View Repo](https://github.com/NabinM31/My-Data-Projects/blob/main/SQL/Ratail_Sales_Project.sql)
+# 🛍️ Retail Sales Project (SQL)
+
+[View Repo](https://github.com/NabinM31/My-Data-Projects/blob/main/SQL/Retail_Sales_Project.md)
+
 
 
 ## 📌 Overview
