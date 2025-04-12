@@ -7,12 +7,16 @@ This repository showcases my projects in **Power BI** and **SQL**, where I solve
 
 ## 📊 Power BI Portfolio Projects
 
-Explore interactive dashboards built using Power BI to visualize business data and derive actionable insights:
+Explore my hands-on Power BI projects, where I transform raw data into interactive dashboards and actionable insights.
 
-| Project Title | Description | View |
-|---------------|-------------|------|
-| **📚 Online Bookstore Dashboard** | Analyzed sales, customer segments, and best-selling books. | [View Project](https://github.com/NabinM31/Online_BookStore_SQL_Project_5) |
-| **👩‍💼 HR Analytics Dashboard** | HR KPIs dashboard showing attrition, performance, and gender distribution. | [View Project](https://github.com/NabinM31/HR_analytics_Dashboard_Power-BI) |
+---
+
+### 📁 Project List
+
+| 📁 Project | 🔍 Description |
+|-----------|----------------|
+| 🧠 [HR Analytics Power BI Dashboard](https://github.com/NabinM31/HR_analytics_Dashboard_Power-BI) | Analyzed employee attrition, demographics, and performance. Created interactive visuals for HR metrics. |
+| 📚 [Online Bookstore Power BI Dashboard](https://github.com/NabinM31/Online_BookStore_SQL_Project_5) | Visualized book sales, top categories, and customer behavior using dynamic reports and KPIs. |
 
 ---
 
