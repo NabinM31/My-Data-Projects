@@ -24,25 +24,6 @@ This repository showcases my projects in **Power BI** and **SQL**, where I solve
 | [🏥 Hospital Data Explorer](./SQL/Hospital_Data_Project.md) | Examine treatment trends and patient demographics using SQL. |
 | [📚 Online Bookstore Report](./SQL/Online_BookStore_Project.md) | Track book sales, popular authors, and inventory alerts. |
 
-
-
-## 🗂 SQL Projects
-
-### 🥦 Blinkit Grocery Project
-[🔗 View Repo](https://github.com/NabinM31/My-Data-Projects/blob/main/SQL/Blinkit_Grocery_Project.md)
-
-### 🏥 Hospital Data Project
-[🔗 View Repo](https://github.com/NabinM31/My-Data-Projects/blob/main/SQL/Hospital_Data_Project.md)
-
-### 🎬 Netflix Project
-[🔗 View Repo](https://github.com/NabinM31/My-Data-Projects/blob/main/SQL/Netflix_Project.md)
-
-### 📚 Online BookStore Project
-[🔗 View Repo](https://github.com/NabinM31/My-Data-Projects/blob/main/SQL/Online_BookStore_Project.md)
-
-### 🛍 Retail Sales Project
-[🔗 View Repo](https://github.com/NabinM31/My-Data-Projects/blob/main/SQL/Retail_Sales_Project.md)
-
 ---
 
 ## 👨‍💻 Tools & Skills
