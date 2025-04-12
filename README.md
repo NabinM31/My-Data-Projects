@@ -14,15 +14,30 @@ This repository showcases my projects in **Power BI** and **SQL**, where I solve
 
 ---
 
-## 💾 SQL Projects
+## 🧠 SQL Portfolio Projects
 
-| Project | Description |
-|--------|-------------|
-| [🎬 Netflix Data Analysis](./SQL/Netflix_Project.md) | Explore content types, genres, and top creators on Netflix using SQL. |
-| [🛒 Retail Sales Insights](./SQL/Retail_Sales_Project.md) | Analyze product sales, customer trends, and store performance. |
-| [🥦 Blinkit Grocery Analytics](./SQL/Blinkit_Grocery_Project.md) | Investigate top-selling grocery items and user purchasing behavior. |
-| [🏥 Hospital Data Explorer](./SQL/Hospital_Data_Project.md) | Examine treatment trends and patient demographics using SQL. |
-| [📚 Online Bookstore Report](./SQL/Online_BookStore_Project.md) | Track book sales, popular authors, and inventory alerts. |
+Explore my hands-on SQL projects, where I dive into real-world datasets to extract insights and drive decisions.
+
+---
+
+### 🗂️ Project List
+
+| 📁 Project | 🔍 Description |
+|-----------|----------------|
+| 🍿 [Netflix SQL Project](https://github.com/NabinM31/Netflix_SQL_Project_1) | Analyzed Netflix’s content across countries and genres using SQL. |
+| 🛒 [Retail Sales SQL Project](https://github.com/NabinM31/Retail_Sales_SQL_Project_4) | Performed sales performance analysis across products and cities. |
+| 🧺 [Blinkit Grocery SQL Project](https://github.com/NabinM31/Blinkit_Grocery_Data_SQL_Project_3) | Explored grocery delivery trends, top products, and order values. |
+| 🏥 [Hospital Data SQL Project](https://github.com/NabinM31/Hospital_Data_SQL_Project_2) | Gained insights on patient admission, treatment, and departments. |
+| 📚 [Online BookStore SQL Project](https://github.com/NabinM31/Online_BookStore_SQL_Project_5) | Investigated online bookstore sales, stock, and customer behavior. |
+
+---
+
+### 🛠️ Tools Used
+- **SQL Server**
+- **SSMS / PostgreSQL / MySQL** (depending on the project)
+- Data cleaning, joins, subqueries, CTEs, aggregation, and more!
+
+---
 
 ---
 
